@@ -23,6 +23,6 @@ IMAGE_INSTALL += " \
 	${CONNECTIVITY} \
 	init-gpio \
 	resetnet \
-	helloworld \
+	remote \
 "
-#	remote \
+#	helloworld \
