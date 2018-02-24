@@ -25,3 +25,4 @@ IMAGE_INSTALL += " \
 	resetnet \
 	helloworld \
 "
+#	remote \
