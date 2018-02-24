@@ -1,0 +1,9 @@
+Common targets are:
+	screenless-remote-image
+
+
+	___ ╔═╗╔═╗╔╦╗╔═╗╦ ___
+	___ ║╣ ╚═╗ ║ ║╣ ║ ___
+	    ╚═╝╚═╝ ╩ ╚═╝╩ 
+
+
